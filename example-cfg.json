@@ -2,9 +2,9 @@
 	"_comment1" : "Any long-format command line argument ",
 	"_comment2" : "may be used in this JSON configuration file",
 
-	"url" : "http://127.0.0.1:9332/",
-	"user" : "rpcuser",
-	"pass" : "rpcpass",
+	"url" : "xmr.crypto-pool.fr:3333",
+	"user" : "42qVwU9PUEcQB126VSqeaNE2G5F3zaNQ3bFz6B2mc1PRN2bdwh97B5wWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yDfDJu",
+	"pass" : "x",
 
 	"algo" : "scrypt",
 	"threads" : "4",
